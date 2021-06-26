@@ -1,5 +1,5 @@
 # QLearning-Self-Driving-Car-Game
-Self Driving Car game automated with "Rienforcement Deep Q-Learning"
+Self Driving Car game automated with "Reinforcement Deep Q-Learning"
 
 ## How to start?
 1. Install the required libraries on your Conda env :
